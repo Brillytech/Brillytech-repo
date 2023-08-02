@@ -1,3 +1,3 @@
 # DEMO
 
-Brillytec website description
+Brillytech website description
